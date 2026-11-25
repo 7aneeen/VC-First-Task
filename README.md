@@ -1,1 +1,1 @@
-![Home Page Preview](.img1.jpg)
+![Home Page Preview](./img1.jpg)
